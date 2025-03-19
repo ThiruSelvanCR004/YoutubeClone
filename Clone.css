@@ -1,0 +1,76 @@
+.GThumb{
+    width: 300px;
+}
+.S1{
+    display: block;
+}
+.Stats-1{
+    width: 300pxpx;
+    font-family: arial;
+    font-size: 15px;
+    font-weight: bold;
+    margin-bottom: none;
+    margin-top: none;
+}
+.Stats-2{
+      margin-top: 1px;
+      margin-bottom: 1px;
+      color: gray;
+}
+.Stats-3{
+    margin-top: 1px;
+    margin-bottom: 1px;
+    color: gray;
+}
+.Main-Stats{
+    display: inline-block;
+    width: 350px;
+    
+    
+}
+.Profo{
+    display: inline-block;
+}
+.Sub-Stats{
+    display: inline-block;
+    width: 250px;
+    margin: none;
+    
+    
+}
+.Profile{
+    width: 42px;
+    border-radius: 52px;
+    margin-bottom: 45px;
+   margin-right: 2px;
+}
+.Mg{
+    display: inline-block;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover:not(.active) {
+    background-color: pink;
+  }
+  
+  .active {
+    background-color: blue;
+  }
